@@ -1,0 +1,265 @@
+{
+    "status": "success",
+    "data": {
+        "loc_type": [
+            {
+                "ID": "1",
+                "NAME": "South Goa",
+                "CODE": "LOC_TYPE"
+            }
+            
+        ],
+        "loan_type": [
+            {
+                "ID": 9,
+                "NAME": "Apf"
+            }
+            
+        ],
+        "prop_type": [
+            {
+                "ID": 55,
+                "NAME": "Bank",
+                "CODE": "PROP_TYPE"
+            }
+            
+        ],
+        "prop_usage": [
+            {
+                "ID": 1,
+                "NAME": "Bank",
+                "CODE": "PROP_USAGE"
+            }
+        ],
+        "violation": [
+            {
+                "ID": 582,
+                "NAME": "Not Applicable",
+                "CODE": "Violations Observed"
+            }
+        ],
+        "remarks_view": [
+            {
+                "ID": 595,
+                "NAME": "Building View",
+                "CODE": "Remarks on View from Property"
+            }
+        ],
+        "wings": [
+            {
+                "ID": 511,
+                "NAME": "Standalone Structure",
+                "CODE": "No of Wings in Society"
+            }
+            
+            
+        ],
+        "zone": [
+            {
+                "ID": 879,
+                "NAME": "Zone Certificate not provided",
+                "CODE": "ZONE_CITY"
+            }
+        ],
+        "marketability": [
+            {
+                "ID": 450,
+                "NAME": "Poor",
+                "CODE": "Marketability/Ease of Saleability"
+            }
+        ],
+        "relation_person_met_at_site": [
+            {
+                "ID": 558,
+                "NAME": "Applicant",
+                "CODE": "Realtion of Person Met at Site"
+            }
+        ],
+        "proximities": [
+            {
+                "ID": 432,
+                "NAME": "Poor",
+                "CODE": "Proximity to Amenities e.g School, Mall, etc"
+            }
+        ],
+        "accessibility": [
+            {
+                "ID": 438,
+                "NAME": "Poor",
+                "CODE": "Accessibility to Property from Main Road"
+            }
+        ],
+        "feedback": [
+            {
+                "ID": 444,
+                "NAME": "Poor",
+                "CODE": "Overall Feedback on Property"
+            }
+        ],
+        "boundaries": [
+            {
+                "ID": 554,
+                "NAME": "Yes",
+                "CODE": "Boundaries Matching"
+            }
+        ],
+        "property_occupied_vaccant": [
+            {
+                "ID": 468,
+                "NAME": "Occupied",
+                "CODE": "Property Occupied or Vacant"
+            }
+        ],
+        "cbd": [
+            {
+                "ID": 426,
+                "NAME": "Poor",
+                "CODE": "Loality Connectivity from CBD"
+            }
+        ],
+        "neighbourhood": [
+            {
+                "ID": 1080,
+                "NAME": "Slum\r\n",
+                "CODE": "Neighbourhood Type"
+            }
+        ],
+        "infrastructure": [
+            {
+                "ID": 668,
+                "NAME": "Poor",
+                "CODE": "Infrastructure of the surrounding area"
+            }
+        ],
+        "development_locality": [
+            {
+                "ID": 423,
+                "NAME": "Developed",
+                "CODE": "Status of Development of Locality"
+            }
+        ],
+        "physical_status_property": [
+            {
+                "ID": 480,
+                "NAME": "Completed and Occupied",
+                "CODE": "Physical Status of Property"
+            }
+        ],
+        "independent_access": [
+            {
+                "ID": 484,
+                "NAME": "Yes",
+                "CODE": "Is the Property an Independent Unit & has Independent Access"
+            },
+            {
+                "ID": 485,
+                "NAME": "No",
+                "CODE": "Is the Property an Independent Unit & has Independent Access"
+            }
+        ],
+        "plot_demarcated": [
+            {
+                "ID": 992,
+                "NAME": "Walls",
+                "CODE": "Property/Plot Demarcated"
+            }
+        ],
+        "remarks_property": [
+            {
+                "ID": 595,
+                "NAME": "Building View",
+                "CODE": "Remarks on View from Property"
+            }
+        ],
+        "amenities_available_society": [
+            {
+                "ID": 488,
+                "NAME": "Double Height Entrance Lobby",
+                "CODE": "Amenities Available in Society"
+            }
+        ],
+        "construction_type": [
+            {
+                "ID": 500,
+                "NAME": "RCC Frame Structure",
+                "CODE": "Construction Type"
+            }
+        ],
+        "no_wings_society": [
+            {
+                "ID": 511,
+                "NAME": "Standalone Structure",
+                "CODE": "No of Wings in Society"
+            }
+        ],
+        "no_of_lifts": [
+            {
+                "ID": 513,
+                "NAME": "Not Available",
+                "CODE": "No of Lifts"
+            }
+        ],
+        "interior": [
+            
+            {
+                "ID": 635,
+                "NAME": "Needs Maintenance",
+                "CODE": "Interior"
+            }
+        ],
+        "flooring": [
+            
+           
+           
+            
+            {
+                "ID": 893,
+                "NAME": "Not Applicable as property is plot",
+                "CODE": "Flooring"
+            }
+        ],
+        "fittings": [
+          
+           
+            {
+                "ID": 901,
+                "NAME": "Not Applicable as property is plot",
+                "CODE": "FITTINGS"
+            }
+        ],
+        "doors": [
+           
+           
+        
+            {
+                "ID": 892,
+                "NAME": "Not Applicable as property is plot",
+                "CODE": "Doors"
+            }
+        ],
+        "window": [
+           
+            {
+                "ID": 813,
+                "NAME": "NA",
+                "CODE": "Window"
+            }
+        ],
+        "maintenance_level": [
+           
+            {
+                "ID": 1092,
+                "NAME": "Very Good",
+                "CODE": "MAINTENANCE LEVEL"
+            }
+        ],
+        "exterior": [
+           
+            {
+                "ID": 518,
+                "NAME": "Poor",
+                "CODE": "Exterior"
+            }
+        ]
+    }
+}
